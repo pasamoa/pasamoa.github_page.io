@@ -124,10 +124,10 @@ navigation:
     url: /
   - title: About Me
     url: /about/
-  - title: Education
-    url: /education/
   - title: Projects
     url: /projects/
+  - title: Education
+    url: /education/
   - title: Contact Me
     url: /contact/
 
