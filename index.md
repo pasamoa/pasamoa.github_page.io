@@ -1,5 +1,5 @@
 ---
-title: About Paakofi Asamoa
+title: Home
 feature_text: |
   ## Paakofi Asamoa
   A Computer Science student with a passion for coding and technology.
