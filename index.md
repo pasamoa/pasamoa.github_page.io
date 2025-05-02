@@ -12,9 +12,9 @@ I am a Computer Science student at SIUE. I created this webpage to showcase my w
 
 {% include button.html text="My GitHub" icon="github" link="https://github.com/pasamoa" color="#0366d6" %} {% include button.html text="My LinkedIn" link="https://www.linkedin.com/in/paakofi-asamoa-470521348/" color="#0077b5" %}
 ## Paakofi Asamoa
-*
 A passionate Computer Science major at SIUE with a love for coding and problem-solving.
-*
 
 ## Projects
-
+# Headline Sentiment Analyzer
+Developed a Python-based pipeline that combines web scraping and sentiment analysis to evaluate financial news headlines.
+Technologies: Python, Web Scraping, Local LLM, Object-Oriented Programming (OOP).
