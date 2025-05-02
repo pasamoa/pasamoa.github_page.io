@@ -6,5 +6,5 @@ permalink: /contact/
 
 Feel free to connect with me:
 
-- [LinkedIn]([https://www.linkedin.com/in/paakofi-asamoa/](https://www.linkedin.com/in/paakofi-asamoa-470521348/))
+- [LinkedIn](https://www.linkedin.com/in/paakofi-asamoa-470521348/)
 - [GitHub](https://github.com/pasamoa)
