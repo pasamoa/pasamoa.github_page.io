@@ -131,6 +131,17 @@ navigation:
   - title: Contact Me
     url: /contact/
 
+navigation_footer:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Education
+    url: /education/
+  - title: Contact Me
+    url: /contact/
 
 
 # Load custom fonts from fonts.google.com etc
