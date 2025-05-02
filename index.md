@@ -15,6 +15,6 @@ I am a Computer Science student at SIUE. I created this webpage to showcase my w
 A passionate Computer Science major at SIUE with a love for coding and problem-solving.
 
 ## Projects
-# Headline Sentiment Analyzer
+### Headline Sentiment Analyzer
 Developed a Python-based pipeline that combines web scraping and sentiment analysis to evaluate financial news headlines.
 Technologies: Python, Web Scraping, Local LLM, Object-Oriented Programming (OOP).
